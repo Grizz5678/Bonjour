@@ -1,0 +1,8 @@
+#Copiez ce code dans thonny ou un autre ide python pour interagir avec ce programme!
+
+print("Bonjour Monsieur/Madame! Comment allez-vous?")
+num1 = input("Je vais bien = 1 Je vais plus ou moins = 2: ")
+if num1 < str(2):
+    print("Je suis heureux pour toi!")
+else:
+    print("Je suis vraiment désolé!")
